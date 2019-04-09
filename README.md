@@ -2,7 +2,7 @@
 Fiori Monitor App description
 
 # Installation Steps
-1.  Go to the transport folder and download the transports to your local machine.
+1.  Go to the Transports folder in this repository and download the transports to your local machine.
 2.  Log on to the SAP Gateway system
 3.  Go to transaction CG3Z. You will be given a prompt with two input fields. Put these values in sequence and execute:
     
